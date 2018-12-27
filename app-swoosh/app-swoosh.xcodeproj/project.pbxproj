@@ -44,6 +44,7 @@
 		E08245B421D55CDE00F648D6 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				E0CA38A021CD4F8100906F88 /* WelcomeVC.swift */,
 				E08245B621D55D8C00F648D6 /* LeagueVC.swift */,
 				E08245B821D55D9B00F648D6 /* SkillVC.swift */,
 			);
@@ -62,6 +63,7 @@
 			children = (
 				E0CA389D21CD4F8100906F88 /* app-swoosh */,
 				E0CA389C21CD4F8100906F88 /* Products */,
+				E08245B421D55CDE00F648D6 /* Controller */,
 			);
 			sourceTree = "<group>";
 		};
@@ -90,8 +92,6 @@
 		E0CA38B021CD53E300906F88 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				E0CA38A021CD4F8100906F88 /* WelcomeVC.swift */,
-				E08245B421D55CDE00F648D6 /* Controller */,
 				E0CA38B121CD543D00906F88 /* BorderButton.swift */,
 			);
 			path = View;
